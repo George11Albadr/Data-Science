@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Curso Ciencia de Datos · reglas del repo ──────────────────────────
+# Solo se versionan los notebooks (.ipynb) y los datos que ellos generan
+# o consumen (.json, .parquet, .csv). Todo lo demas queda fuera.
+
+# Material de clase (PDFs de presentaciones y enunciados): no se sube
+*.pdf
+
+# Entorno y dependencias: cada quien reconstruye el suyo
+.venv/
+venv/
+requirements.txt
+uv.lock
+
+# macOS
+.DS_Store

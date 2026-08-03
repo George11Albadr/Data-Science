@@ -1,0 +1,13 @@
+{
+  "fuente": "Open-Meteo API v1",
+  "url": "https://es.wikipedia.org/wiki/Departamentos_de_Guatemala",
+  "parametros": {
+    "latitude": 14.63,
+    "longitude": -90.51,
+    "daily": "temperature_2m_max",
+    "timezone": "America/Guatemala"
+  },
+  "fecha_descarga": "2026-07-30",
+  "filas": 7,
+  "licencia": "CC BY 4.0"
+}

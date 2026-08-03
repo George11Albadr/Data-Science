@@ -1,0 +1,33 @@
+{
+  "latitude": 14.657293,
+  "longitude": -90.50186,
+  "generationtime_ms": 0.026345252990722656,
+  "utc_offset_seconds": -21600,
+  "timezone": "America/Guatemala",
+  "timezone_abbreviation": "GMT-6",
+  "elevation": 1497.0,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "°C"
+  },
+  "daily": {
+    "time": [
+      "2026-07-30",
+      "2026-07-31",
+      "2026-08-01",
+      "2026-08-02",
+      "2026-08-03",
+      "2026-08-04",
+      "2026-08-05"
+    ],
+    "temperature_2m_max": [
+      27.1,
+      27.6,
+      28.4,
+      28.9,
+      28.1,
+      26.8,
+      24.4
+    ]
+  }
+}

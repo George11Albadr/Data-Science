@@ -1,0 +1,18 @@
+# Dependencias del curso de Ciencia de Datos (HDT1-3, Proyecto 1)
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+duckdb
+polars
+pyarrow
+requests
+beautifulsoup4
+lxml
+kagglehub
+
+# Jupyter
+notebook
+ipykernel<7

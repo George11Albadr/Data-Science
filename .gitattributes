@@ -1,3 +1,4 @@
 # Los notebooks se comitean CON outputs (así lo pide el curso), pero
 # git diff / git show los muestran sin el base64 de las gráficas.
 *.ipynb diff=ipynb-clean
+*.ipynb filter=clean-ipynb-exec-count

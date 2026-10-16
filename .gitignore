@@ -232,3 +232,4 @@ uv.lock
 # macOS
 .DS_Store
 .vscode/settings.json
+*.csv
